@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Courses</string>
+    <string name="home">Home</string>
+    <string name="schedule">Schedule</string>
+    <string name="settings">Settings</string>
+    <string name="tasks">Tasks</string>
+    <string name="see_all">See All</string>
+    <string name="go_to_courses">Go to courses</string>
+    <string name="go_to_premium">Go To Premium Now</string>
+    <string name="go_to_premium_with">Go To Premium with My Courses</string>
+    <string name="premium_description">Support us &amp; get unlimited access to the premium features</string>
+    <string name="course_banner_text">Take a look at your courses &amp; track your progress</string>
+    <string name="no_tasks">You don\'t have any tasks!</string>
+    <string name="no_tasks_hint">Press + button to add new tasks</string>
+    <string name="this_week">This week</string>
+    <string name="theme_color">Theme Color</string>
+    <string name="change_language">Change Language</string>
+    <string name="create_backup">Create Backup File</string>
+    <string name="restore_data">Restore Data</string>
+    <string name="cancel_notifications">Cancel All Scheduled Notifications</string>
+    <string name="version">Version 5.1.2</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="this_week_filter">This Week</string>
+</resources>
